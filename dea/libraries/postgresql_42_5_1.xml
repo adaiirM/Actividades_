@@ -1,0 +1,33 @@
+<component name="libraryTable">
+  <library name="postgresql-42.5.1">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/Downloads/postgresql-42.5.1.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/jdbc-main/bibliotecas/poi-3.16.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/jdbc-main/bibliotecas/groovy-all-2.4.5.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/jdbc-main/bibliotecas/poi-excelant-3.16.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/jdbc-main/bibliotecas/jasperreports-6.20.0.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/jdbc-main/bibliotecas/ivy-2.5.0.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/jdbc-main/bibliotecas/poi-ooxml-3.16.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/jdbc-main/bibliotecas/poi-scratchpad-3.16.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/jdbc-main/bibliotecas/poi-ooxml-schemas-3.16.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/jdbc-main/bibliotecas/AbsoluteLayout.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/jdbc-main/bibliotecas/itextpdf-5.5.13.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/jdbc-main/bibliotecas/commons-digester-2.1.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/jdbc-main/bibliotecas/xmlbeans-2.6.0.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/jdbc-main/bibliotecas/commons-codec-1.10.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/jdbc-main/bibliotecas/itext-pdfa-5.5.13.3.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/jdbc-main/bibliotecas/commons-logging-1.2.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/jdbc-main/bibliotecas/groovy-4.0.2.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/jdbc-main/bibliotecas/log4j-1.2.17.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/jdbc-main/bibliotecas/itext-2.1.7.js9.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/jdbc-main/bibliotecas/commons-beanutils-1.9.4.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/jdbc-main/bibliotecas/commons-collections4-4.1.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/jdbc-main/bibliotecas/junit-4.12.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/jdbc-main/bibliotecas/jfreechart-1.0.12.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/Desktop/jdbc-main/bibliotecas/groovy-4.0.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
